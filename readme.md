@@ -22,16 +22,16 @@ Github:-( https://github.com/Appy26/axiever_portfolio_assignment)
 ## Screenshots
 
 - Home Section
-![App Screenshot](./github_images/homepage_alex.png)
+ <img src="./github_images/homepage_alex.png" />
 
 - About Section
-![App Screenshot](./github_images/About_alex.png)
+<img src="./github_images/About_alex.png" />
 
 - Projects Section
-![App Screenshot](./github_images/projects_alex.png)
+<img src="./github_images/projects_alex.png" />
 
 - Skills Section
-![App Screenshot](./github_images/skills_alex.png)
+<img src="./github_images/skills_alex.png" />
 
 - Contacts Section
-![App Screenshot](./github_images/contacts_alex.png)
+<img src="./github_images/contacts_alex.png" />
