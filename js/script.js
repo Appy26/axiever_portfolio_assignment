@@ -10,35 +10,12 @@ resumeButton2.addEventListener("click", function() {
   window.open("https://drive.google.com/file/d/18owvfqwkY_8t4-aT39WlSBBtSBcxA-Kl/view?usp=sharing.pdf", "_blank");
 });
 
-// GitHub Calendar
-const activityCalendar = document.querySelector(".react-activity-calendar");
-if (activityCalendar) {
-  // Include the necessary npm package and configuration for the calendar to display
-}
 
-// GitHub Streak Stats
-const streakStats = document.getElementById("github-streak-stats");
-if (streakStats) {
-  const streakStatsImg = document.createElement("img");
-  streakStatsImg.src = "https://github-readme-streak-stats.herokuapp.com/demo/";
-  streakStats.appendChild(streakStatsImg);
-}
 
-// GitHub Top Languages
-const topLangs = document.getElementById("github-top-langs");
-if (topLangs) {
-  const topLangsImg = document.createElement("img");
-  topLangsImg.src = "https://github.com/Bhavikagire/github-readme-stats";
-  topLangs.appendChild(topLangsImg);
-}
 
-// GitHub Stats Card
-const statsCard = document.getElementById("github-stats-card");
-if (statsCard) {
-  const statsCardImg = document.createElement("img");
-  statsCardImg.src = "https://github.com/Bhavikagire/github-readme-stats";
-  statsCard.appendChild(statsCardImg);
-}
+
+
+
 
 
 // *=============================== toggle icon navbar ==================================
@@ -51,11 +28,8 @@ menuIcon.onclick = () => {
   navbar.classList.toggle('active')
 };
 
-// *=============================== github calender ==================================
-    GitHubCalendar(".calendar", "Bhavikagire");
 
     // or enable responsive functionality:
-    GitHubCalendar(".calendar", "Bhavikagire", { responsive: true });
 
 // *=============================== resume open in new tab ==================================
 
